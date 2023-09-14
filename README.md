@@ -1,4 +1,4 @@
-<h2 align="left">My name is Walter Salgado and I'm a Intermediate programmer, from ISUTC/Mozambique/Maputo</h2>
+<h2 align="left">My name is Walter Salgado and I'm an Intermediate programmer, from ISUTC/Mozambique/Maputo</h2>
 
 ###
 
